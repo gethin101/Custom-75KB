@@ -15,6 +15,33 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 |Enter | 2.25u | 2u PCB |
 |Backspace | 2u | 2u PCB |
 
+# Full Wiring Table
+
+|  Net | GPIO | Notes |
+|------|------|-------|
+| ROW0 | GP2| Matrix  |
+| ROW1 | GP3 | Matrix |
+| ROW2 | GP4 | Matrix |
+| ROW3 | GP5 | Matrix |
+| ROW4 | GP6 | Matrix |
+| COL0 | GP7 | Matrix  |
+| COL1 | GP8 | Matrix |
+| COL2 | GP9 | Matrix |
+| COL3 | GP10 | Matrix |
+| COL4 | GP11 | Matrix |
+| COL5 | GP12 | Matrix |
+| COL6 | GP13 | Matrix |
+| ENC_A | GP16 | Rot A |
+| ENC_B | GP17 | Rot B |
+| ENC_SW | GP18 | Switch |
+| GND | GND | Ground |
+| COL6 | GP13 | Matrix |
+| +3V3 | 3V3 | Pico Pin |
+| GND | GND | Common |
+| Backspace | GP9 | Matrix |
+| Enter | GP10 | Matrix |
+
+
 # BOM
 | Qty | Item | Notes | Cost (£) | USD ($) | Link |
 |------|-----|-------|----------|---------|------|
