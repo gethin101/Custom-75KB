@@ -15,8 +15,6 @@ Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/
 | **192** | **Total cost:** | **Not counting shipping** | **£23.12** | **$31.17** | [BOM](/Bom.md) |
 
 
-## Total: £ $
-
 
 
 | 60 | MX-Style key switches | AliExpress | £ | $ | [AE]() |
