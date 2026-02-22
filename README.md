@@ -5,7 +5,14 @@ My keyboard is a 60% keyboard with 60 keys and a rotary encoder used for volume 
 
 Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/#/gists/8c5516ec0065e4f4e203846337e67ee0) (the ENC placeholder bottom right is where the rotary encoder goes)
 
-My spacebar, left shift, right shift, backspace and enter all need MX stabilizers as they are all above 2u. This means I need 4x 2u stabilizers and 1x 6.25u stabilizer that I will solder onto the PCB
+My spacebar, left shift, right shift, enter and backspace all need MX stabilizers as they are all above 2u. This means I need 4x 2u stabilizers and 1x 6.25u stabilizer that I will solder onto the PCB
+
+
+Spacebar -	6.25u  (6.25u PCB stabilizer)
+Left Shift -	2.25u	(2u PCB stabilizer)
+Right Shift -	2.75u	(2u PCB stabilizer)
+Enter	- 2.25u	(2u PCB stabilizer)
+Backspace	- 2u	(2u PCB stabilizer)
 
 # BOM
 | Qty | Item | Notes | Cost (£) | USD ($) | Link |
