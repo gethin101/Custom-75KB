@@ -5,6 +5,14 @@ My keyboard is a 75% keyboard with a total of 93 keys - 85 normal and 8 custom m
 
 Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/#/gists/a3df558aee879b924d336356534e8c5d) 
 
+---
+
+| PCB                      | CAD                       |
+|--------------------------|---------------------------|
+| ![schem](assets/schematic.png)   | ![case](assets/case.png) |
+| ![pcb](assets/pcb.png) | ![plate](assets/plate.png)   | 
+| ![pcb 3d](assets/pcb_3D.png) | ![assembly](assets/assembly.png)   | 
+
 # Firmware
 I have written my custom keyboard code in CircuitPython using KMK to control the keystrokes and I have made a macro handler at the start that means I can change the function of any of my keys whenever I want.
 
@@ -23,11 +31,7 @@ My macro keys at the moment:
 - Download KMK from [Github](/Firmware/kmk) and copy to root
 - Download [code.py](/Firmware/code.py) onto the pico
 
-| PCB                      | CAD                       |
-|--------------------------|---------------------------|
-| ![schem](assets/schematic.png)   | ![case](assets/case.png) |
-| ![pcb](assets/pcb.png) | ![plate](assets/plate.png)   | 
-| ![pcb 3d](assets/pcb_3D.png) | ![assembly](assets/assembly.png)   | 
+
 
 # BOM
 | Qty | Item | Notes | Cost (£) | USD ($) | Link |
