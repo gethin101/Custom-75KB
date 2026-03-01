@@ -28,8 +28,8 @@ Here, you can see my KiCad schematic, PCB layout and 3D model of my PCB. On the 
 
 
 <details>
-<summary>Click to see **schematic**</summary>
-<img src="/assets/schematic.png" alt="schematic" height="800"/>
+<summary>Click to see schematic</summary>
+<img src="/assets/schematic.png" alt="schematic" height="120%"/>
 </details>
 
 **Click any of the images below to see it in more detail**
