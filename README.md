@@ -8,11 +8,11 @@ Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/
 ---
 # Images
 
-| PCB                      | CAD                       |
-|--------------------------|---------------------------|
-| ![schem](assets/schematic.png)   | ![case](assets/case.png) |
-| ![pcb](assets/pcb.png) | ![plate](assets/plate.png)   | 
-| ![pcb 3d](assets/pcb_3D.png) | ![assembly](assets/assembly.png)   | 
+| PCB | CAD |
+|-----|-----|
+| <img src="assets/schematic.png" width="250"> | <img src="assets/case.png" width="250"> |
+| <img src="assets/pcb.png" width="250"> | <img src="assets/plate.png" width="250"> |
+| <img src="assets/pcb_3D.png" width="250"> | <img src="assets/assembly.png" width="250"> |
 
 # Firmware
 I have written my custom keyboard code in CircuitPython using KMK to control the keystrokes and I have made a macro handler at the start that means I can change the function of any of my keys whenever I want.
