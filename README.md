@@ -8,7 +8,7 @@ Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/
 # Firmware
 I have written my custom keyboard code in CircuitPython using KMK to control the keystrokes.
 **Setup:**
-- Flash CircuitPython onto my pico
+- Flash [CircuitPython](/Firmware/adafruit-circuitpython-raspberry_pi_pico2-en_GB-10.1.3.uf2) onto my pico
 - Download KMK from [Github](/Firmware/kmk) and copy to root
 - Download [**code.py**](/Firmware/code.py) onto the pico
 
