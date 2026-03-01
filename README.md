@@ -1,5 +1,6 @@
 # Gethin 75%
 My custom 75% mechanical keyboard with macro keys powered by a Raspberry pi pico and KMK firmware I designed and built during Hackclub's Blueprint program - [project link](https://blueprint.hackclub.com/projects/12386)
+![KiCad](https://img.shields.io/badge/kicad-%2300578F.svg?style=for-the-badge&logo=kicad&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 # Keys
 My keyboard is a 75% keyboard with a total of 93 keys - 85 normal and 8 custom macro keys.
 
