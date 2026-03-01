@@ -51,6 +51,40 @@ Here, you can see my KiCad schematic, PCB layout and 3D model of my PCB. On the 
 | <img src="assets/pcb_3D.png" width="700"> | <img src="assets/assembly.png" width="700"> |
 
  <div align="center"><img src="assets/pcb.png" width="900"></div>
+
+ # Full Wiring Table
+
+<details>
+<summary>Click to see full wiring table</summary>
+|  Net | GPIO | Notes |
+|------|------|-------|
+| ROW0 | GP2 | Matrix  |
+| ROW1 | GP3 | Matrix  |
+| ROW2 | GP4 | Matrix  |
+| ROW3 | GP5 | Matrix  |
+| ROW4 | GP6 | Matrix  |
+| ROW5 | GP7 | Matrix  |
+| COL0 | GP8 | Matrix  |
+| COL1 | GP9 | Matrix  |
+| COL2 | GP1O | Matrix  |
+| COL3 | GP11 | Matrix  |
+| COL4 | GP12 | Matrix  |
+| COL5 | GP13 | Matrix  |
+| COL6 | GP14 | Matrix  |
+| COL7 | GP15 | Matrix  |
+| COL8 | GP16 | Matrix  |
+| COL9 | GP17 | Matrix  |
+| COL10 | GP18 | Matrix  |
+| COL11 | GP19 | Matrix  |
+| COL12 | GP20 | Matrix  |
+| COL13 | GP21 | Matrix  |
+| COL14 | GP22 | Matrix  |
+| COL15 | GP26 | Matrix  |
+| COL16 | GP27 | Matrix  |
+| 3V3 | +3v3 | Pico |
+| GND | GND | Common |
+</details>
+
  
 # Firmware
 I have written my custom keyboard code in CircuitPython using KMK to control the keystrokes and I have made a macro handler at the start that means I can change the function of any of my keys whenever I want.
@@ -106,35 +140,6 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 |Backspace | 2u | 2u plate-mount |
 
 
-# Full Wiring Table
-
-|  Net | GPIO | Notes |
-|------|------|-------|
-| ROW0 | GP2 | Matrix  |
-| ROW1 | GP3 | Matrix  |
-| ROW2 | GP4 | Matrix  |
-| ROW3 | GP5 | Matrix  |
-| ROW4 | GP6 | Matrix  |
-| ROW5 | GP7 | Matrix  |
-| COL0 | GP8 | Matrix  |
-| COL1 | GP9 | Matrix  |
-| COL2 | GP1O | Matrix  |
-| COL3 | GP11 | Matrix  |
-| COL4 | GP12 | Matrix  |
-| COL5 | GP13 | Matrix  |
-| COL6 | GP14 | Matrix  |
-| COL7 | GP15 | Matrix  |
-| COL8 | GP16 | Matrix  |
-| COL9 | GP17 | Matrix  |
-| COL10 | GP18 | Matrix  |
-| COL11 | GP19 | Matrix  |
-| COL12 | GP20 | Matrix  |
-| COL13 | GP21 | Matrix  |
-| COL14 | GP22 | Matrix  |
-| COL15 | GP26 | Matrix  |
-| COL16 | GP27 | Matrix  |
-| 3V3 | +3v3 | Pico |
-| GND | GND | Common |
 
 ---
 
