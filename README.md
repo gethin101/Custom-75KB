@@ -11,15 +11,7 @@ My custom 75% mechanical keyboard with macro keys powered by a Raspberry pi pico
   <a href="#Keys">Keys</a> •
   <a href="#Stabilizers">Stabilizers</a> 
 
-# Keys
-My keyboard is a 75% keyboard with a total of 93 keys - 85 normal and 8 custom macro keys.
 
-Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/#/gists/a3df558aee879b924d336356534e8c5d) <br>
-
-
-<img src="assets/layout.png" width="700">
-
----
 # Images
 Here, you can see my KiCad schematic, PCB layout and 3D model of my PCB. On the right, you can see my keyboard bottom case I modelled in Fusion 360 as well as my custom plate and an assembly image.
 
@@ -51,7 +43,15 @@ My macro keys at the moment:
 - Download KMK from [Github](/Firmware/kmk) and copy to root
 - Download [code.py](/Firmware/code.py) onto the pico
 
+# Keys
+My keyboard is a 75% keyboard with a total of 93 keys - 85 normal and 8 custom macro keys.
 
+Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/#/gists/a3df558aee879b924d336356534e8c5d) <br>
+
+
+<img src="assets/layout.png" width="700">
+
+---
 
 # BOM
 | Qty | Item | Notes | Cost (£) | USD ($) | Link |
