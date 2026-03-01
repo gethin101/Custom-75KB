@@ -11,6 +11,17 @@ A custom 75% mechanical keyboard with macro keys powered by a Raspberry pi pico 
   <a href="#Keys">Keys</a> •
   <a href="#Stabilizers">Stabilizers</a> 
 
+# Key Features
+- **93 programmable macro keys**
+- **Custom 2-layer PCB**
+- **Powered by a Raspberry Pi Pico**
+- **Custom KMK firmware**
+- **Simple USB connectivity**
+- **Inter-changable Cherry MX key switches**
+- **3D printed case & plate**
+- **Rubber feet pads for stability**
+- **Easy assembly with no screws**
+
 
 # Images
 Here, you can see my KiCad schematic, PCB layout and 3D model of my PCB. On the right, you can see my keyboard bottom case I modelled in Fusion 360 as well as my custom plate and an assembly image.
