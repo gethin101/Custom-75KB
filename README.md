@@ -140,24 +140,20 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 
 # Blueprint requirements
 
-## 📘 README Content
 - [ ] A short description of what your project is  
 - [ ] A couple of sentences on how to use your project  
 - [ ] A couple of sentences on why you made the project  
 
-## 🖼️ Required Images
 - [ ] Screenshot of a full 3D model of your project  
 - [ ] Screenshot of your PCB (if applicable)  
 - [ ] Wiring diagram (if any wiring is not on a PCB)  
 - [ ] Bill of Materials (BOM) in table format at the end of the README, with links  
 
-## 🛠️ Project Design Requirements
 - [ ] Fully original, customized design (not a direct copy of any guide)  
 - [ ] Complete CAD assembly including all components (electronics included)  
 - [ ] Firmware present (even if untested)  
 - [ ] Design sanity‑checked with someone else  
 
-## 📁 GitHub Repository Requirements
 - [ ] BOM in CSV format in the root directory, with links  
 - [ ] PCB source files (.kicad_pro, .kicad_sch, gerbers.zip, etc.) if applicable  
 - [ ] A .STEP file of the full 3D CAD model including electronics  
@@ -167,10 +163,6 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 
 > ⚠️ **Important:** Missing a complete .STEP file with all electronics and CAD will result in project rejection.
 
-## 🚫 You Must NOT Have
-- [ ] AI‑generated README, journal entries, or AI‑generated images of your project  
-- [ ] Designs taken from other people  
-- [ ] Missing firmware or software  
 
-Designed and built by [Gethin101](github.com/gethin101)
+Designed and built by [@gethin101](https://github.com/gethin101)
 
