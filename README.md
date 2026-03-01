@@ -1,6 +1,8 @@
 # Gethin-75 
 A custom 75% mechanical keyboard with macro keys powered by a Raspberry pi pico and KMK firmware that I designed and built during Hackclub's Blueprint program - [project link](https://blueprint.hackclub.com/projects/12386)
 
+I made this project to learn the fundamentals of how keyboards and macropads work, to improve my PCB design skills by learning how switch matrixes work and to get more familiar with modelling parts in CAD for 3D printing.
+
 ![KiCad](https://img.shields.io/badge/kicad-%2300578F.svg?style=for-the-badge&logo=kicad&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
   <a href="#Keys">BOM</a> •
@@ -148,18 +150,18 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 
 # Blueprint requirements
 
-- [ ] A short description of what your project is  
-- [ ] A couple of sentences on how to use your project  
-- [ ] A couple of sentences on why you made the project  
+- [✅] A short description of what your project is  
+- [✅] A couple of sentences on how to use your project  
+- [✅] A couple of sentences on why you made the project  
 
-- [ ] Screenshot of a full 3D model of your project  
-- [ ] Screenshot of your PCB (if applicable)  
-- [ ] Wiring diagram (if any wiring is not on a PCB)  
-- [ ] Bill of Materials (BOM) in table format at the end of the README, with links  
+- [✅ ] Screenshot of a full 3D model of your project  
+- [✅ ] Screenshot of your PCB (if applicable)  
+- [✅ ] Wiring diagram (if any wiring is not on a PCB)  
+- [✅] Bill of Materials (BOM) in table format at the end of the README, with links  
 
-- [ ] Fully original, customized design (not a direct copy of any guide)  
-- [ ] Complete CAD assembly including all components (electronics included)  
-- [ ] Firmware present (even if untested)  
+- [✅] Fully original, customized design (not a direct copy of any guide)  
+- [✅] Complete CAD assembly including all components (electronics included)  
+- [✅] Firmware present (even if untested)  
 - [ ] Design sanity‑checked with someone else  
 
 - [ ] BOM in CSV format in the root directory, with links  
