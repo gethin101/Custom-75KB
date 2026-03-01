@@ -10,6 +10,8 @@ Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/
 
 ---
 # Images
+Here, you can see my KiCad schematic, PCB layout and 3D model of my PCB. On the right, you can see my keyboard bottom case I modelled in Fusion 360 as well as my custom plate and an assembly image.
+Click any of the images below to see it in more detail
 
 | PCB | CAD |
 |-----|-----|
