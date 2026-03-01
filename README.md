@@ -52,6 +52,21 @@ Here, you can see my KiCad schematic, PCB layout and 3D model of my PCB. On the 
 | <img src="assets/pcb.png" width="700"> | <img src="assets/plate.png" width="700"> |
 | <img src="assets/pcb_3D.png" width="700"> | <img src="assets/assembly.png" width="700"> |
 
+<details>
+<summary>Click to see case model</summary>
+<img src="/assets/case.png" alt="case" height="120%"/>
+</details>
+
+<details>
+<summary>Click to see plate model</summary>
+<img src="/assets/plate.png" alt="plate" height="120%"/>
+</details>
+
+<details>
+<summary>Click to see keyboard assembly</summary>
+<img src="/assets/assembly.png" alt="assembly" height="120%"/>
+</details>
+
  <div align="center"><img src="assets/pcb.png" width="900"></div>
 
  # Full Wiring Table
