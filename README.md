@@ -34,7 +34,7 @@ Here, you can see my KiCad schematic, PCB layout and 3D model of my PCB. On the 
 
 <details>
 <summary>Click to see PCB</summary>
-<img src="/assets/PCB.png" alt="PCB" height="120%"/>
+<img src="/assets/pcb.png" alt="PCB" height="120%"/>
 </details>
 
 <details>
