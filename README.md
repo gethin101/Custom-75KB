@@ -6,11 +6,22 @@ My keyboard is a 75% keyboard with 85 normal keys and 8 custom macro keys so a t
 Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/#/gists/a3df558aee879b924d336356534e8c5d) 
 
 # Firmware
-I have written my custom keyboard code in CircuitPython using KMK to control the keystrokes.
+I have written my custom keyboard code in CircuitPython using KMK to control the keystrokes and I have made a macro handler at the start that means I can change the function of any of my keys whenever I want.
+
+My macro keys at the moment:
+- Previous song
+- Play / Pause
+- Next song
+- Volume down
+- Volume up
+- Lock
+- File Explorer
+- Task Manager
+
 **Setup:**
 - Flash [CircuitPython](/Firmware/adafruit-circuitpython-raspberry_pi_pico2-en_GB-10.1.3.uf2) onto my pico
 - Download KMK from [Github](/Firmware/kmk) and copy to root
-- Download [**code.py**](/Firmware/code.py) onto the pico
+- Download [code.py](/Firmware/code.py) onto the pico
 
 
 
