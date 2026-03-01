@@ -23,10 +23,11 @@ My macro keys at the moment:
 - Download KMK from [Github](/Firmware/kmk) and copy to root
 - Download [code.py](/Firmware/code.py) onto the pico
 
-| PCB                      | 3D View                         |
-|--------------------------|---------------------------------|
-| ![PCB](assets/pcb.png)   | ![3D-Front](assets/3dfront.png) |
-| ![Case](assets/case.png) | ![3D-Back](assets/3dback.png)   | 
+| PCB                      | CAD                       |
+|--------------------------|---------------------------|
+| ![schem](assets/schematic.png)   | ![case](assets/case.png) |
+| ![pcb](assets/pcb.png) | ![plate](assets/plate.png)   | 
+| ![pcb 3d](assets/pcb_3D.png) | ![assembly](assets/assembly.png)   | 
 
 # BOM
 | Qty | Item | Notes | Cost (£) | USD ($) | Link |
