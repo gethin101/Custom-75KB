@@ -56,6 +56,7 @@ Here, you can see my KiCad schematic, PCB layout and 3D model of my PCB. On the 
 
 <details>
 <summary>Click to see full wiring table</summary>
+<br>
 
 | Net   | GPIO | Notes   |
 |-------|------|---------|
