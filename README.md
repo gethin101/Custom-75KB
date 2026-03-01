@@ -39,7 +39,30 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 
 |  Net | GPIO | Notes |
 |------|------|-------|
-| ROW0 | GPIO | Matrix  |
-| COL0 | GPIO | Matrix  |
+| ROW0 | GP2 | Matrix  |
+| ROW1 | GP3 | Matrix  |
+| ROW2 | GP4 | Matrix  |
+| ROW3 | GP5 | Matrix  |
+| ROW4 | GP6 | Matrix  |
+| ROW5 | GP7 | Matrix  |
+| COL0 | GP8 | Matrix  |
+| COL1 | GP9 | Matrix  |
+| COL2 | GP1O | Matrix  |
+| COL3 | GP11 | Matrix  |
+| COL4 | GP12 | Matrix  |
+| COL5 | GP13 | Matrix  |
+| COL6 | GP14 | Matrix  |
+| COL7 | GP15 | Matrix  |
+| COL8 | GP16 | Matrix  |
+| COL9 | GP17 | Matrix  |
+| COL10 | GP18 | Matrix  |
+| COL11 | GP19 | Matrix  |
+| COL12 | GP20 | Matrix  |
+| COL13 | GP21 | Matrix  |
+| COL14 | GP22 | Matrix  |
+| COL15 | GP26 | Matrix  |
+| COL16 | GP27 | Matrix  |
+| 3V3 | +3v3 | Pico |
+| GND | GND | Common |
 
 
