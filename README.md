@@ -9,7 +9,7 @@ My custom 75% mechanical keyboard with macro keys powered by a Raspberry pi pico
   <a href="#BOM">BOM</a> •
   <a href="#Full Wiring Table">Wiring</a> •
   <a href="#Keys">Keys</a> •
-  <a href="#Stabilizers">Stabilizers</a> •
+  <a href="#Stabilizers">Stabilizers</a> 
 
 # Keys
 My keyboard is a 75% keyboard with a total of 93 keys - 85 normal and 8 custom macro keys.
