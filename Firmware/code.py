@@ -1,4 +1,10 @@
 #KMK - by gethin101
+from kmk.bootcfg import bootcfg
+
+bootcfg(
+    usb_id={'manufacturer': "Gethin101", 'product': "Gethin-75"},
+)
+
 
 import board
 from kmk.kmk_keyboard import KMKKeyboard
