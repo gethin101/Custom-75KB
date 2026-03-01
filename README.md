@@ -25,11 +25,21 @@ A custom 75% mechanical keyboard with macro keys powered by a Raspberry pi pico 
 
 # Images
 Here, you can see my KiCad schematic, PCB layout and 3D model of my PCB. On the right, you can see my keyboard bottom case I modelled in Fusion 360 as well as my custom plate and an assembly image.
-
+<br>
 
 <details>
 <summary>Click to see schematic</summary>
 <img src="/assets/schematic.png" alt="schematic" height="120%"/>
+</details>
+
+<details>
+<summary>Click to see PCB</summary>
+<img src="/assets/PCB.png" alt="PCB" height="120%"/>
+</details>
+
+<details>
+<summary>Click to see 3D PCB</summary>
+<img src="/assets/pcb_3D.png" alt="3d pcb" height="120%"/>
 </details>
 
 **Click any of the images below to see it in more detail**
