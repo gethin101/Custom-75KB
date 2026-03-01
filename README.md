@@ -5,6 +5,13 @@ My keyboard is a 75% keyboard with 85 normal keys and 8 custom macro keys so a t
 
 Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/#/gists/a3df558aee879b924d336356534e8c5d) 
 
+# Firmware
+I have written my custom keyboard code in CircuitPython using KMK to control the keystrokes.
+**Setup:**
+- Flash CircuitPython onto my pico
+- Download KMK from Github and copy to root
+- Download [**code.py**](/Firmware/code.py) onto the pico
+
 
 
 # BOM
