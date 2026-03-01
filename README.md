@@ -3,6 +3,11 @@ My custom 75% mechanical keyboard with macro keys powered by a Raspberry pi pico
 
 ![KiCad](https://img.shields.io/badge/kicad-%2300578F.svg?style=for-the-badge&logo=kicad&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
+  <a href="#Keys">Keys</a> •
+  <a href="#Images">Images</a> •
+  <a href="#Firmware">Firmware</a> •
+  <a href="#BOM">BOM</a> •
+
 # Keys
 My keyboard is a 75% keyboard with a total of 93 keys - 85 normal and 8 custom macro keys.
 
