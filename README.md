@@ -42,7 +42,7 @@ Here, you can see my KiCad schematic, PCB layout and 3D model of my PCB. On the 
 <img src="/assets/pcb_3D.png" alt="3d pcb" height="120%"/>
 </details>
 
-**Click any of the images below to see it in more detail**
+**Click any of the images below or click above to see it in more detail**
 
 | PCB | CAD |
 |-----|-----|
