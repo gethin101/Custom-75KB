@@ -9,7 +9,7 @@ Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/
 I have written my custom keyboard code in CircuitPython using KMK to control the keystrokes.
 **Setup:**
 - Flash CircuitPython onto my pico
-- Download KMK from Github and copy to root
+- Download KMK from [Github](/Firmware/kmk) and copy to root
 - Download [**code.py**](/Firmware/code.py) onto the pico
 
 
