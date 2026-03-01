@@ -10,9 +10,9 @@ Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/
 
 | PCB | CAD |
 |-----|-----|
-| <img src="assets/schematic.png" width="500"> | <img src="assets/case.png" width="500"> |
-| <img src="assets/pcb.png" width="500"> | <img src="assets/plate.png" width="500"> |
-| <img src="assets/pcb_3D.png" width="500"> | <img src="assets/assembly.png" width="500"> |
+| <img src="assets/schematic.png" width="600"> | <img src="assets/case.png" width="600"> |
+| <img src="assets/pcb.png" width="600"> | <img src="assets/plate.png" width="600"> |
+| <img src="assets/pcb_3D.png" width="600"> | <img src="assets/assembly.png" width="600"> |
 
 # Firmware
 I have written my custom keyboard code in CircuitPython using KMK to control the keystrokes and I have made a macro handler at the start that means I can change the function of any of my keys whenever I want.
