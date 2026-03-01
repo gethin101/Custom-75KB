@@ -1,7 +1,7 @@
-# About
-This is the repo for my custom 75% mechanical keyboard with macro keys powered by a Raspberry pi pico and KMK firmware I designed and built during Hackclub's Blueprint program - [project link](https://blueprint.hackclub.com/projects/12386)
+# Gethin 75%
+My custom 75% mechanical keyboard with macro keys powered by a Raspberry pi pico and KMK firmware I designed and built during Hackclub's Blueprint program - [project link](https://blueprint.hackclub.com/projects/12386)
 # Keys
-My keyboard is a 75% keyboard with 85 normal keys and 8 custom macro keys so a total of 93 keys.
+My keyboard is a 75% keyboard with a total of 93 keys - 85 normal and 8 custom macro keys.
 
 Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/#/gists/a3df558aee879b924d336356534e8c5d) 
 
@@ -39,9 +39,7 @@ My macro keys at the moment:
 | 2 | 3D Print case and plate | #printing-legion | £ | $ | [Slack](https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
 | **352** | **Total cost:** | **Not counting shipping** | **£31.40** | **$42.42** | [BOM](/Bom.md) |
 
-
-
-| 60 | MX-Style key switches | AliExpress | £ | $ | [AE]() |
+# Stabilizers 
 
 My spacebar, left shift, right shift, enter and backspace all need MX stabilizers as they are above 2u and these will be plate-mounted.
 
