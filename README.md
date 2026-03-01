@@ -172,4 +172,5 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 - [ ] Designs taken from other people  
 - [ ] Missing firmware or software  
 
+Designed and built by [Gethin101](github.com/gethin101)
 
